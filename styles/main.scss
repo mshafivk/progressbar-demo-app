@@ -1,0 +1,35 @@
+body {
+  background: #ece7e7;
+}
+.progressContainer,
+.progressBody,
+.progress__bar {
+  min-height: 2.25rem;
+}
+
+.progress__value {
+ position: absolute;
+  top: .0625rem;
+  right: .25rem;
+  //color: white;
+  width: 100%;
+  text-align: center
+}
+
+.progressContainer {
+  position: relative;
+  padding: 5px;
+}
+.progressBody{
+  //background-color: #545454;
+  position: relative;
+  border:1px solid #CCC6C6;
+}
+
+
+.progress__bar {
+  background-color: #59C6ED;
+}
+.appMenu {
+	margin-right:5px
+}
