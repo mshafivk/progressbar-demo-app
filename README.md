@@ -13,7 +13,7 @@ Progress bar assignment - Created a responsive progress bar using react js
 * Fork and clone the project:
 
 ```
-git clone 
+git clone https://github.com/mshafivk/progressbar-demo-app.git
 ```
 
 * Then install the dependencies:
